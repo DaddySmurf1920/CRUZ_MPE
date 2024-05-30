@@ -1,4 +1,3 @@
-
 body, html {
     margin: 0;
     padding: 0;
@@ -7,7 +6,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('path/to/background.jpg');
+    background-image: url('img/background.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -98,5 +97,5 @@ body, html {
 
 /* Hover effect */
 .pokemon-card:hover {
-    background-image: url('path/to/hover-background.jpg');
+    background-image: url('img/hover-background.jpg');
 }
